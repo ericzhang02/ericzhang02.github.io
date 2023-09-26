@@ -1,0 +1,25 @@
+#example-experiences {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#toggle-example {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#toggle-example:hover {
+    background-color: #2980b9;
+}
+
+#example-list {
+    display: none;
+    list-style-type: disc;
+    margin-left: 20px;
+}
